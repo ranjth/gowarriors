@@ -8,7 +8,8 @@ assests. This code will be organised under the following folders:
 - app
 - conf
 - assets &
-- executables.
+- executables
+
 The goal is to have the core logic implemented in various packages in the app
 folder which will be used by a main package in the executables folder to
 implement a server.
